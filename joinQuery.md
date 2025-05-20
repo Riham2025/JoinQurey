@@ -11,6 +11,7 @@ Company Database (the provided database) – JOIN Queries
 ![](image/d.PNG)
 
 4. Display the project ID, name, and location of all projects located in Cairo or Alex. 
+![](image/f.PNG)
 
 
 
