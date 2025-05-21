@@ -38,4 +38,10 @@ address, and birthdate.
 
 12. Display all employees and their dependents, even if some employees have no dependents.
 ![](image/e.PNG)
+	
+
+	--------------------------------------------------------------------------------------------------------------------------------------------- 
+University Database – JOIN Queries 
+
+
 
