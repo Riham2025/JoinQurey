@@ -36,5 +36,6 @@ address, and birthdate.
 11. Display all data of managers in the company.
 ![](image/w.PNG)
 
-
+12. Display all employees and their dependents, even if some employees have no dependents.
+![](image/e.PNG)
 
