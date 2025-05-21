@@ -22,5 +22,8 @@ Company Database (the provided database) – JOIN Queries
 7. Retrieve the names of employees in department 10 who work ? 10 hours/week on the "AL Rabwah" project.
 ![](image/j.PNG) 
 
+8. Find the names of employees who are directly supervised by "Kamel Mohamed". 
+![](image/k.PNG)
+
 
 
