@@ -33,6 +33,8 @@ address, and birthdate.
 ![](image/q.PNG)
 	
 	
+11. Display all data of managers in the company.
+![](image/w.PNG)
 
 
 
