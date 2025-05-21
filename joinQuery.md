@@ -13,5 +13,14 @@ Company Database (the provided database) – JOIN Queries
 4. Display the project ID, name, and location of all projects located in Cairo or Alex. 
 ![](image/f.PNG)
 
+5. Display all project data where the project name starts with the letter 'A'. 
+![](image/g.PNG)
+
+6. Display the IDs and names of employees in department 30 with a salary between 1000 and 2000 LE. 
+![](image/h.PNG)
+
+7. Retrieve the names of employees in department 10 who work ? 10 hours/week on the "AL Rabwah" project.
+![](image/j.PNG) 
+
 
 
